@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e20164f2.css",
+    "main.js": "/static/js/main.7ea9bc45.js",
+    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
+    "static/media/mulish-latin-ext-400-normal.woff": "/static/media/mulish-latin-ext-400-normal.e82160238de80c263103.woff",
+    "static/media/mulish-latin-400-normal.woff": "/static/media/mulish-latin-400-normal.bd9f266c4bb13cd9920c.woff",
+    "static/media/mulish-latin-400-normal.woff2": "/static/media/mulish-latin-400-normal.d2ff49c90a9ec133bdc2.woff2",
+    "static/media/mulish-latin-ext-400-normal.woff2": "/static/media/mulish-latin-ext-400-normal.16bc455386d203bae26d.woff2",
+    "static/media/mulish-cyrillic-ext-400-normal.woff": "/static/media/mulish-cyrillic-ext-400-normal.30636c218aea97414e24.woff",
+    "static/media/mulish-cyrillic-ext-400-normal.woff2": "/static/media/mulish-cyrillic-ext-400-normal.01cfbdf46c802bfe3b4f.woff2",
+    "static/media/mulish-cyrillic-400-normal.woff": "/static/media/mulish-cyrillic-400-normal.2ee513550c197b20d077.woff",
+    "static/media/mulish-vietnamese-400-normal.woff": "/static/media/mulish-vietnamese-400-normal.c16f48b35b8f739b79e8.woff",
+    "static/media/mulish-cyrillic-400-normal.woff2": "/static/media/mulish-cyrillic-400-normal.4f530bddab30dcdb4b4e.woff2",
+    "static/media/mulish-vietnamese-400-normal.woff2": "/static/media/mulish-vietnamese-400-normal.8bd1d3d480d5d9d741ae.woff2",
+    "index.html": "/index.html",
+    "main.e20164f2.css.map": "/static/css/main.e20164f2.css.map",
+    "main.7ea9bc45.js.map": "/static/js/main.7ea9bc45.js.map",
+    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20164f2.css",
+    "static/js/main.7ea9bc45.js"
+  ]
+}
