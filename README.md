@@ -5,13 +5,13 @@ This project is a React application with a GraphQL backend, designed to manage a
 ## Table of Contents
 
 - [Book Assignment](#book-assignment)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Technologies](#technologies)
-  - [Contributing](#contributing)
-  - [License](#license)
+  - [Table of Contents]
+  - [Description]
+  - [Installation]
+  - [Usage]
+  - [Technologies]
+  - [Contributing]
+  - [License]
 
 ## Description
 
