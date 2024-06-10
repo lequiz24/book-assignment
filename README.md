@@ -25,11 +25,11 @@ Book Assignment is a full-stack web application built using React for the fronte
 git clone https://github.com/lequiz24/book-assignment.git
 
 
-##Navigate to the project directory:
+#Navigate to the project directory:
 ```bash
 
 cd book-assignment
-##Install dependencies:
+#Install dependencies:
 ```bash
 
 npm install
