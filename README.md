@@ -27,13 +27,13 @@ Book Assignment is a full-stack web application built using React for the fronte
 
 2. Navigate to the project directory:
 
-bash
+  ```bash
 Copy code
 cd book-assignment
 
 3. Install dependencies:
 
-bash
+  ```bash
 Copy code
 npm install
 
@@ -43,12 +43,12 @@ To run the application locally, follow these steps:
 
 Start the backend server:
 
-bash
+  ```bash
 Copy code
 npm run server
 Start the React application:
 
-bash
+  ```bash
 Copy code
 npm start
 Open your web browser and navigate to http://localhost:3000 to view the application.
